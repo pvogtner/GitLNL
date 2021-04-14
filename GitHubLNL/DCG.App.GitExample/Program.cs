@@ -11,6 +11,9 @@ namespace DCG.App.GitExample
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Another Change");
+            Console.WriteLine("Another Change2");
+            Console.WriteLine("Another Change3");
         }
     }
 }
