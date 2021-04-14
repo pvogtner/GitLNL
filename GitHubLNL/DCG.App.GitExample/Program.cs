@@ -12,6 +12,7 @@ namespace DCG.App.GitExample
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Another Change");
+            Console.WriteLine("Another Change2");
         }
     }
 }
