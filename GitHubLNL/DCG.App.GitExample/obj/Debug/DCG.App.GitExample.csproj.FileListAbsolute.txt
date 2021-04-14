@@ -1,0 +1,7 @@
+C:\Users\PatrickVogtner\source\repos\GitLNL\GitHubLNL\DCG.App.GitExample\bin\Debug\DCG.App.GitExample.exe.config
+C:\Users\PatrickVogtner\source\repos\GitLNL\GitHubLNL\DCG.App.GitExample\bin\Debug\DCG.App.GitExample.exe
+C:\Users\PatrickVogtner\source\repos\GitLNL\GitHubLNL\DCG.App.GitExample\bin\Debug\DCG.App.GitExample.pdb
+C:\Users\PatrickVogtner\source\repos\GitLNL\GitHubLNL\DCG.App.GitExample\obj\Debug\DCG.App.GitExample.csprojAssemblyReference.cache
+C:\Users\PatrickVogtner\source\repos\GitLNL\GitHubLNL\DCG.App.GitExample\obj\Debug\DCG.App.GitExample.csproj.CoreCompileInputs.cache
+C:\Users\PatrickVogtner\source\repos\GitLNL\GitHubLNL\DCG.App.GitExample\obj\Debug\DCG.App.GitExample.exe
+C:\Users\PatrickVogtner\source\repos\GitLNL\GitHubLNL\DCG.App.GitExample\obj\Debug\DCG.App.GitExample.pdb
